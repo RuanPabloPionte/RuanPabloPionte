@@ -18,6 +18,6 @@
 
 ## Contato
 - E-mail: ruanpablopionte@gmail.com
-- LinkedIn: ....
+- LinkedIn: https://www.linkedin.com/in/ruanpablopionte/
 
 
