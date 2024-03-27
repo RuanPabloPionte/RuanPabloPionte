@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Ruan 🖐️
 
 - Estudante de Sistemas de Informação na [Unesc](https://unesc.br/)
-- Especializando em Desenvolvimento Web na OneBitCode
+- Desenvolvimento Web na OneBitCode.
 - Procurando oportunidades como Desenvolvedor Front-End
 
 ## Tecnologias e Linguagens
